@@ -8,17 +8,21 @@ Source: [Link](https://github.com/zenwalker/golang-book)
 2. [**Types**](./chapter3/main.go)
 3. [**Variables**](./chapter4/main.go)
 4. [**Control structures**](./chapter5/main.go)
-4. [**Arrays, slices, maps**](./chapter6/main.go)
-
-## Run
-```
-$ go run */main.go
-```
-where `*` it is a name of package, example `chapter2`.
+5. [**Arrays, slices, maps**](./chapter6/main.go)
+5. [**Functions**](./chapter7/main.go)
 
 ## Build
 
-```
+```bash
 $ go build */main.go
 ```
+
+where `*` it is a name of package, example `chapter2`.
+
+## Run
+
+```bash
+go run */main.go
+```
+
 where `*` it is a name of package, example `chapter2`.
