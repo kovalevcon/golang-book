@@ -9,7 +9,8 @@ Source: [Link](https://github.com/zenwalker/golang-book)
 3. [**Variables**](./chapter4/main.go)
 4. [**Control structures**](./chapter5/main.go)
 5. [**Arrays, slices, maps**](./chapter6/main.go)
-5. [**Functions**](./chapter7/main.go)
+6. [**Functions**](./chapter7/main.go)
+7. [**Pointers**](./chapter8/main.go)
 
 ## Build
 
